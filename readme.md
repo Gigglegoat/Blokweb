@@ -81,4 +81,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/besthesda2.jpeg" width="375px" alt="artikelpagina van bethesda.net">
+<img src="images/bethesda2.jpeg" width="375px" alt="artikelpagina van bethesda.net">
