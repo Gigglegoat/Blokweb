@@ -77,8 +77,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/bethesda1" width="375px" alt="Homepage (landing) van bethesda.net">
+<img src="images/bethesda1.jpeg" width="375px" alt="Homepage (landing) van bethesda.net">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/besthesda2" width="375px" alt="artikelpagina van bethesda.net">
+<img src="images/besthesda2.jpeg" width="375px" alt="artikelpagina van bethesda.net">
